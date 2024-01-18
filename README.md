@@ -3,6 +3,7 @@
 ## Introduction
 
 Hello, this repository is a place where I store examples of analysis and/or snippets I used for work. 
+Data used come either from #https://www.kaggle.com/ or are manually fabricated by me.
 
 Contacts:
 - email (luca.rugiu@hotmail.it)
