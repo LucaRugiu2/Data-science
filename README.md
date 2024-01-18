@@ -13,6 +13,7 @@ Contacts:
 - 01 Data visualization
 - 02 Correlation
 - 03_ANOVA
+- 04_T_test
 
 ## Technologies
 - Python
