@@ -11,6 +11,7 @@ Contacts:
 ## Table of contents
 - 01 Data visualization
 - 02 Correlation
+- 03_ANOVA
 
 ## Technologies
 - Python
