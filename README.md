@@ -5,7 +5,8 @@
 Hello, this repository is a place where I store examples of analysis and/or snippets I used for work. 
 
 - [Contact]
-- email (#luca.rugiu@hotmail.it)
+- email (luca.rugiu@hotmail.it)
+- linkedin (#https://www.linkedin.com/in/luca-rugiu-42a6601b5/)
 
 ## Table of contents
 
