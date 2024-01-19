@@ -17,3 +17,8 @@ Contacts:
 
 ## Technologies
 - Python
+
+## To do list:
+- add SAnkey diagram in 01 Data visualization https://medium.com/@cbkwgl/sankey-diagrams-in-python-fc9673465ccb
+- Section Forecasting, use weekly data and both LR and Prophet. Use the automation multi-KPI 
+- Section ML
