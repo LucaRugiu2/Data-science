@@ -12,9 +12,9 @@ Contacts:
 ## Table of contents
 - 01 Data visualization
 - 02 Correlation
-- 03_ANOVA
-- 04_T_test
-_ 05_Forecasting
+- 03 ANOVA
+- 04 T_test
+_ 05 Forecasting
 
 ## Technologies
 - Python
