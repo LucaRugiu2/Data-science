@@ -14,7 +14,7 @@ Contacts:
 - 02 Correlation
 - 03 ANOVA
 - 04 T_test
-_ 05 Forecasting
+- 05 Forecasting
 
 ## Technologies
 - Python
